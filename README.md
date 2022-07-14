@@ -1,4 +1,4 @@
-# Unsplash Clone
+# CatWiki
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=catwiki&message=Welcome&color=FFFFFF&labelColor=110C2F" alt="Unsplash welcome!" />
@@ -8,9 +8,7 @@
   <img alt="Languages" src="https://img.shields.io/github/languages/count/yazaldefilimonepinto/catwiki?color=FFFFFF&labelColor=110C2F">
 </p>
 
-A Simple clone of Unsplash image storage.
-
-
+Get to know more about your cat breed
 ## Table of Contents
 
 - [Tecnologies](#technologies)
